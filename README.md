@@ -1,4 +1,4 @@
-<h1>Hii I'm Subash Bhatta</h1>
+<h1>Hii 👋 I'm Subash Bhatta</h1>
 💫 About Me:
 💻 I’m currently working on<br>Building small projects in web development and learning new tech skills.<br><br>🤝 I’m looking to collaborate on<br>Creative tech projects, startups, or anything related to coding and design.<br><br>🆘 I’m looking for help with<br>Improving my coding skills and understanding real-world projects better.<br><br>🌱 I’m currently learning<br>Programming (especially Python & web development) and improving my communication skills.<br><br>💬 Ask me about<br>Technology, startups, design ideas, or anything related to coding.<br><br>⚡ Fun fact<br>I love mixing creativity with tech and trying new ideas 😄
 
