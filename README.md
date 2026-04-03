@@ -25,15 +25,15 @@ My goal is to become a strong builder by shipping projects consistently and impr
 
 ### Velo  
 AI-powered project built as part of my learning journey  
-Live: https://your-link  
-Code: https://github.com/your-repo  
+Live: getvelo.vercel.app  
+Code: https://github.com/bhattasubash/Velo 
 
 ---
 
-### Teachaar AI  
-A project focused on helping teachers using AI tools  
-Live: https://your-link  
-Code: https://github.com/your-repo  
+### ZENTRO
+A platform that helps you turn ideas into real products in 14 days.
+Live: tryzentro.vercel.app  
+Code: https://github.com/bhattasubash/ZENTRO 
 
 ---
 
