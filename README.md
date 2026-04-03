@@ -25,14 +25,14 @@ My goal is to become a strong builder by shipping projects consistently and impr
 
 ### Velo  
 AI-powered project built as part of my learning journey  
-Live: getvelo.vercel.app  
+Live: https://getvelo.vercel.app  
 Code: https://github.com/bhattasubash/Velo 
 
 ---
 
 ### ZENTRO
 A platform that helps you turn ideas into real products in 14 days.
-Live: tryzentro.vercel.app  
+Live:  https://tryzentro.vercel.app  
 Code: https://github.com/bhattasubash/ZENTRO 
 
 ---
