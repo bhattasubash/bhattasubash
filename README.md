@@ -1,19 +1,59 @@
-<h1>Hii 👋 I'm Subash Bhatta</h1>
-💫 About Me:
-💻 I’m currently working on<br>Building small projects in web development and learning new tech skills.
+<h1 align="center">Subash Bhatta</h1>
+<p align="center">Building with AI. Learning in public. Focused on real products.</p>
 
-🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhattasubash&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhattasubash&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattasubash&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhattasubash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhattasubash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-![](https://visitcount.itsvg.in/api?id=bhattasubash&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## About
+
+I am a computer science student focused on building real-world projects using AI and modern web technologies.
+
+Instead of only learning concepts, I prefer to build, experiment, and document what works.
+
+My goal is to become a strong builder by shipping projects consistently and improving with each iteration.
+
+---
+
+## Current Focus
+
+- Building AI-powered tools  
+- Developing small SaaS projects  
+- Improving full-stack development skills  
+
+---
+
+## Selected Projects
+
+### Velo  
+AI-powered project built as part of my learning journey  
+Live: https://your-link  
+Code: https://github.com/your-repo  
+
+---
+
+### Teachaar AI  
+A project focused on helping teachers using AI tools  
+Live: https://your-link  
+Code: https://github.com/your-repo  
+
+---
+
+## Tech Stack
+
+JavaScript, TypeScript, Python  
+React, Next.js  
+Firebase, Supabase  
+Vercel, Netlify  
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/subash-bhatta//your-link  
+Instagram: https://www.instagram.com/subashbhatt.a?igsh=ZDN2a2VwaHV0bTd2/your-link  
+
+---
+
+## Note
+
+This profile is a reflection of my journey.  
+Everything here is built while learning.
